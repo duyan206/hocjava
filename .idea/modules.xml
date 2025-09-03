@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java dnu.iml" filepath="$PROJECT_DIR$/.idea/java dnu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laphoc/laphoc.iml" filepath="$PROJECT_DIR$/laphoc/laphoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lapthuchanh/lapthuchanh.iml" filepath="$PROJECT_DIR$/lapthuchanh/lapthuchanh.iml" />
+    </modules>
+  </component>
+</project>
